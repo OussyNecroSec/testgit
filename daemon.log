@@ -1,0 +1,120 @@
+Nov  2 19:21:55 debian systemd[1]: Starting Flush Journal to Persistent Storage...
+Nov  2 19:21:55 debian systemd[1]: Started udev Coldplug all Devices.
+Nov  2 19:21:55 debian systemd[1]: Starting Helper to synchronize boot up for ifupdown...
+Nov  2 19:21:55 debian systemd[1]: Started Load/Save Random Seed.
+Nov  2 19:21:55 debian systemd[1]: Started Flush Journal to Persistent Storage.
+Nov  2 19:21:55 debian systemd[1]: Started Helper to synchronize boot up for ifupdown.
+Nov  2 19:21:55 debian systemd-sysusers[284]: Creating group systemd-coredump with gid 999.
+Nov  2 19:21:55 debian systemd-sysusers[284]: Creating user systemd-coredump (systemd Core Dumper) with uid 999 and gid 999.
+Nov  2 19:21:55 debian systemd[1]: Started Set the console keyboard layout.
+Nov  2 19:21:55 debian systemd[1]: Started Create System Users.
+Nov  2 19:21:55 debian systemd[1]: Starting Create Static Device Nodes in /dev...
+Nov  2 19:21:55 debian systemd[1]: Started Create Static Device Nodes in /dev.
+Nov  2 19:21:55 debian systemd[1]: Starting udev Kernel Device Manager...
+Nov  2 19:21:55 debian systemd[1]: Reached target Local File Systems (Pre).
+Nov  2 19:21:55 debian systemd[1]: Reached target Local File Systems.
+Nov  2 19:21:55 debian systemd[1]: Condition check resulted in Commit a transient machine-id on disk being skipped.
+Nov  2 19:21:55 debian systemd[1]: Starting Load AppArmor profiles...
+Nov  2 19:21:55 debian systemd[1]: Starting Create Volatile Files and Directories...
+Nov  2 19:21:55 debian systemd[1]: Starting Set console font and keymap...
+Nov  2 19:21:55 debian systemd[1]: Started Set console font and keymap.
+Nov  2 19:21:55 debian systemd[1]: Started Create Volatile Files and Directories.
+Nov  2 19:21:55 debian systemd[1]: Starting Network Time Synchronization...
+Nov  2 19:21:55 debian systemd[1]: Starting Update UTMP about System Boot/Shutdown...
+Nov  2 19:21:55 debian systemd[1]: Started Update UTMP about System Boot/Shutdown.
+Nov  2 19:21:55 debian apparmor.systemd[293]: Restarting AppArmor
+Nov  2 19:21:55 debian apparmor.systemd[293]: Reloading AppArmor profiles
+Nov  2 19:21:55 debian systemd[1]: Started udev Kernel Device Manager.
+Nov  2 19:21:55 debian systemd[1]: Started Network Time Synchronization.
+Nov  2 19:21:55 debian systemd[1]: Reached target System Time Synchronized.
+Nov  2 19:21:55 debian systemd-udevd[337]: link_config: autonegotiation is unset or enabled, the speed and duplex are not writable.
+Nov  2 19:21:55 debian systemd-udevd[314]: Using default interface naming scheme 'v240'.
+Nov  2 19:21:55 debian systemd-udevd[314]: link_config: autonegotiation is unset or enabled, the speed and duplex are not writable.
+Nov  2 19:21:55 debian systemd[1]: Started Load AppArmor profiles.
+Nov  2 19:21:55 debian systemd[1]: Starting Raise network interfaces...
+Nov  2 19:21:55 debian systemd[1]: Found device 82540EM Gigabit Ethernet Controller (PRO/1000 MT Desktop Adapter).
+Nov  2 19:21:55 debian systemd[1]: Started ifup for enp0s3.
+Nov  2 19:21:55 debian systemd[1]: Started Raise network interfaces.
+Nov  2 19:21:55 debian systemd[1]: Reached target Network.
+Nov  2 19:21:55 debian systemd[1]: Found device VBOX_HARDDISK 5.
+Nov  2 19:21:55 debian systemd[1]: Activating swap /dev/disk/by-uuid/44360e12-f78c-4a97-ad9a-005afdb611d5...
+Nov  2 19:21:55 debian systemd[1]: Activated swap /dev/disk/by-uuid/44360e12-f78c-4a97-ad9a-005afdb611d5.
+Nov  2 19:21:55 debian systemd[1]: Reached target Swap.
+Nov  2 19:21:55 debian systemd[1]: Reached target System Initialization.
+Nov  2 19:21:55 debian systemd[1]: Started Daily Cleanup of Temporary Directories.
+Nov  2 19:21:55 debian systemd[1]: Started Daily rotation of log files.
+Nov  2 19:21:55 debian systemd[1]: Listening on D-Bus System Message Bus Socket.
+Nov  2 19:21:55 debian systemd[1]: Reached target Sockets.
+Nov  2 19:21:55 debian systemd[1]: Reached target Basic System.
+Nov  2 19:21:55 debian systemd[1]: Condition check resulted in getty on tty2-tty6 if dbus and logind are not available being skipped.
+Nov  2 19:21:55 debian systemd[1]: Starting Permit User Sessions...
+Nov  2 19:21:55 debian dhclient[426]: Internet Systems Consortium DHCP Client 4.4.1
+Nov  2 19:21:55 debian sh[371]: Internet Systems Consortium DHCP Client 4.4.1
+Nov  2 19:21:55 debian sh[371]: Copyright 2004-2018 Internet Systems Consortium.
+Nov  2 19:21:55 debian sh[371]: All rights reserved.
+Nov  2 19:21:55 debian sh[371]: For info, please visit https://www.isc.org/software/dhcp/
+Nov  2 19:21:55 debian dhclient[426]: Copyright 2004-2018 Internet Systems Consortium.
+Nov  2 19:21:55 debian dhclient[426]: All rights reserved.
+Nov  2 19:21:55 debian dhclient[426]: For info, please visit https://www.isc.org/software/dhcp/
+Nov  2 19:21:55 debian dhclient[426]: 
+Nov  2 19:21:55 debian systemd[1]: Started Regular background program processing daemon.
+Nov  2 19:21:55 debian systemd[1]: Starting OpenBSD Secure Shell server...
+Nov  2 19:21:55 debian systemd[1]: Starting Login Service...
+Nov  2 19:21:55 debian systemd[1]: Started D-Bus System Message Bus.
+Nov  2 19:21:55 debian systemd[1]: Started Daily apt download activities.
+Nov  2 19:21:55 debian systemd[1]: Started Daily apt upgrade and clean activities.
+Nov  2 19:21:55 debian systemd[1]: Starting System Logging Service...
+Nov  2 19:21:55 debian systemd[1]: Started Daily man-db regeneration.
+Nov  2 19:21:55 debian systemd[1]: Reached target Timers.
+Nov  2 19:21:55 debian systemd[1]: Started Permit User Sessions.
+Nov  2 19:21:55 debian systemd[1]: Started Getty on tty1.
+Nov  2 19:21:55 debian systemd[1]: Reached target Login Prompts.
+Nov  2 19:21:55 debian dhclient[426]: Listening on LPF/enp0s3/08:00:27:14:62:2f
+Nov  2 19:21:55 debian sh[371]: Listening on LPF/enp0s3/08:00:27:14:62:2f
+Nov  2 19:21:55 debian sh[371]: Sending on   LPF/enp0s3/08:00:27:14:62:2f
+Nov  2 19:21:55 debian sh[371]: Sending on   Socket/fallback
+Nov  2 19:21:55 debian sh[371]: Created duid "\000\001\000\001)\024>C\010\000'\024b/".
+Nov  2 19:21:55 debian sh[371]: DHCPDISCOVER on enp0s3 to 255.255.255.255 port 67 interval 8
+Nov  2 19:21:55 debian dhclient[426]: Sending on   LPF/enp0s3/08:00:27:14:62:2f
+Nov  2 19:21:55 debian dhclient[426]: Sending on   Socket/fallback
+Nov  2 19:21:55 debian dhclient[426]: Created duid "\000\001\000\001)\024>C\010\000'\024b/".
+Nov  2 19:21:55 debian dhclient[426]: DHCPDISCOVER on enp0s3 to 255.255.255.255 port 67 interval 8
+Nov  2 19:21:55 debian systemd[1]: Started Login Service.
+Nov  2 19:21:55 debian systemd[1]: Started System Logging Service.
+Nov  2 19:21:55 debian systemd[1]: Started OpenBSD Secure Shell server.
+Nov  2 19:21:55 debian systemd[1]: Reached target Multi-User System.
+Nov  2 19:21:55 debian systemd[1]: Reached target Graphical Interface.
+Nov  2 19:21:55 debian systemd[1]: Starting Update UTMP about System Runlevel Changes...
+Nov  2 19:21:55 debian systemd[1]: systemd-update-utmp-runlevel.service: Succeeded.
+Nov  2 19:21:55 debian systemd[1]: Started Update UTMP about System Runlevel Changes.
+Nov  2 19:21:55 debian systemd[1]: Startup finished in 4.419s (kernel) + 3.326s (userspace) = 7.745s.
+Nov  2 19:21:56 debian dhclient[426]: DHCPOFFER of 192.168.1.149 from 192.168.1.1
+Nov  2 19:21:56 debian sh[371]: DHCPOFFER of 192.168.1.149 from 192.168.1.1
+Nov  2 19:21:56 debian sh[371]: DHCPREQUEST for 192.168.1.149 on enp0s3 to 255.255.255.255 port 67
+Nov  2 19:21:56 debian dhclient[426]: DHCPREQUEST for 192.168.1.149 on enp0s3 to 255.255.255.255 port 67
+Nov  2 19:21:56 debian sh[371]: DHCPACK of 192.168.1.149 from 192.168.1.1
+Nov  2 19:21:56 debian dhclient[426]: DHCPACK of 192.168.1.149 from 192.168.1.1
+Nov  2 19:21:56 debian dhclient[426]: bound to 192.168.1.149 -- renewal in 2754 seconds.
+Nov  2 19:21:56 debian sh[371]: bound to 192.168.1.149 -- renewal in 2754 seconds.
+Nov  2 19:21:56 debian sh[371]: enp0s3=enp0s3
+Nov  2 19:22:02 debian systemd[1]: Created slice User Slice of UID 0.
+Nov  2 19:22:02 debian systemd[1]: Starting User Runtime Directory /run/user/0...
+Nov  2 19:22:02 debian systemd[1]: Started User Runtime Directory /run/user/0.
+Nov  2 19:22:02 debian systemd[1]: Starting User Manager for UID 0...
+Nov  2 19:22:02 debian systemd[464]: Reached target Sockets.
+Nov  2 19:22:02 debian systemd[464]: Reached target Timers.
+Nov  2 19:22:02 debian systemd[464]: Reached target Paths.
+Nov  2 19:22:02 debian systemd[464]: Reached target Basic System.
+Nov  2 19:22:02 debian systemd[1]: Started User Manager for UID 0.
+Nov  2 19:22:02 debian systemd[464]: Reached target Default.
+Nov  2 19:22:02 debian systemd[464]: Startup finished in 81ms.
+Nov  2 19:22:02 debian systemd[1]: Started Session 1 of user root.
+Nov  2 19:24:07 debian systemd[1]: Reloading OpenBSD Secure Shell server.
+Nov  2 19:24:07 debian systemd[1]: Reloaded OpenBSD Secure Shell server.
+Nov  2 19:24:23 debian systemd[1]: Started Session 3 of user root.
+Nov  2 19:24:27 debian systemd[1]: getty@tty1.service: Succeeded.
+Nov  2 19:24:27 debian systemd[1]: session-1.scope: Succeeded.
+Nov  2 19:24:27 debian systemd[1]: getty@tty1.service: Service has no hold-off time (RestartSec=0), scheduling restart.
+Nov  2 19:24:27 debian systemd[1]: getty@tty1.service: Scheduled restart job, restart counter is at 1.
+Nov  2 19:24:27 debian systemd[1]: Stopped Getty on tty1.
+Nov  2 19:24:27 debian systemd[1]: Started Getty on tty1.

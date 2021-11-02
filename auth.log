@@ -1,0 +1,19 @@
+Nov  2 19:21:55 debian systemd-logind[433]: New seat seat0.
+Nov  2 19:21:55 debian systemd-logind[433]: Watching system buttons on /dev/input/event3 (Power Button)
+Nov  2 19:21:55 debian systemd-logind[433]: Watching system buttons on /dev/input/event4 (Sleep Button)
+Nov  2 19:21:55 debian systemd-logind[433]: Watching system buttons on /dev/input/event0 (AT Translated Set 2 keyboard)
+Nov  2 19:21:55 debian sshd[444]: Server listening on 0.0.0.0 port 22.
+Nov  2 19:21:55 debian sshd[444]: Server listening on :: port 22.
+Nov  2 19:22:02 debian login[436]: pam_unix(login:session): session opened for user root by LOGIN(uid=0)
+Nov  2 19:22:02 debian systemd-logind[433]: New session 1 of user root.
+Nov  2 19:22:02 debian systemd: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Nov  2 19:22:02 debian login[469]: ROOT LOGIN  on '/dev/tty1'
+Nov  2 19:24:07 debian sshd[444]: Received SIGHUP; restarting.
+Nov  2 19:24:07 debian sshd[444]: Server listening on 0.0.0.0 port 22.
+Nov  2 19:24:07 debian sshd[444]: Server listening on :: port 22.
+Nov  2 19:24:23 debian sshd[1024]: Accepted password for root from 192.168.1.100 port 65007 ssh2
+Nov  2 19:24:23 debian sshd[1024]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Nov  2 19:24:23 debian systemd-logind[433]: New session 3 of user root.
+Nov  2 19:24:27 debian login[436]: pam_unix(login:session): session closed for user root
+Nov  2 19:24:27 debian systemd-logind[433]: Session 1 logged out. Waiting for processes to exit.
+Nov  2 19:24:27 debian systemd-logind[433]: Removed session 1.
